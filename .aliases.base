@@ -1,0 +1,9 @@
+# vi: ft=zsh
+alias c="clear"
+alias g="git"
+alias ga="git add"
+alias gl="git log"
+alias gco="git checkout"
+alias gs="git status"
+alias t="tmux"
+alias v="vim"
